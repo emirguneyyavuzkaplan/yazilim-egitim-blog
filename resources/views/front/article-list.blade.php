@@ -81,7 +81,7 @@
     @else
         <meta name="keywords" content="{{ $settings->seo_keywords_articles }}">
         <meta name="description" content="{{ $settings->seo_description_articles }}">
-        <meta name="author" content="Sercan Özen">
+        <meta name="author" content="Emir  Güney">
     @endif
 @endpush
 @section("js")

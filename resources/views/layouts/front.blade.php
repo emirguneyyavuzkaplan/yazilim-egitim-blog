@@ -204,7 +204,7 @@
                                     height: 200px;
                                     "></div>
                                         <div>
-                                            Sercan Özen
+                                            Emir Güney
                                         </div>
                                     </a>
                                 </div>
@@ -218,7 +218,7 @@
                                     height: 200px;
                                     "></div>
                                         <div>
-                                            Sercan Özen
+                                            Emir Guney
                                         </div>
                                     </a>
                                 </div>

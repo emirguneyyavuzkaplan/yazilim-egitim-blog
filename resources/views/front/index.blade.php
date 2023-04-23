@@ -165,7 +165,7 @@
 @push("meta")
     <meta name="keywords" content="{{ $settings->seo_keywords_home }}">
     <meta name="description" content="{{ $settings->seo_description_home }}">
-    <meta name="author" content="Sercan Özen">
+    <meta name="author" content="Emir Güney">
 @endpush
 @section("js")
 @endsection
