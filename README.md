@@ -6,10 +6,3 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
-
-## Proje Hakkında
-
-Bu repoda Laravel 10 kullanılmış olup, Full Stack Developer Eğitimi sırasında geliştirilen blog projesini içermektedir. 
-
-Proje'nin detaylarına ve videolu anlatımına https://www.youtube.com/watch?v=peMIF-34jEU&list=PLUEXSxNAoEX_KLv9YTi5Gp4uZj1nZax0H linkinden ulaşabilirsiniz. 
-
